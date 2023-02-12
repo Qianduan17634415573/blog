@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,b as n}from"./app.f6004df8.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"menus/testOne.md"}'),a={name:"menus/testOne.md"},o=n("p",null,"\u6D4B\u8BD51",-1),r=[o];function c(_,d,p,i,l,m){return s(),t("div",null,r)}const h=e(a,[["render",c]]);export{f as __pageData,h as default};
